@@ -16,6 +16,6 @@ To run application:
 
 ![Screenshot 2022-12-10 001924](https://user-images.githubusercontent.com/66387211/206804903-14420f71-d13d-4e87-abb7-5251ec1f6dc3.jpg)
 
-You can try and add some structure it to see results.
+You can try and add some structure to see results.
 
 Enjoy!
