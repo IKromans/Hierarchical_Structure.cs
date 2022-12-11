@@ -29,6 +29,8 @@ out/
 # Visual Studio Code
 .vscode/
 .history/
+.bin/
+.obj/
 
 # dotCover
 _ReSharper.*/
