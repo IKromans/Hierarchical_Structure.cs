@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7LKcExN4FbRbJNGXdVg3mNZ912Bzm49tGGMZzAVH41ZsIrrhcnas2ynUSIPA9ZlnP8yJxmoTVFg4ukpifwF5NA==",
+  "dgSpecHash": "4pB/lQI094puZqgyEeJV4snmqlop4K3q44ZX/gfinmnzdSMchBp/URcCpnyBp+8cYWYX+ML10ZWfyejosMvI/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kroma\\OneDrive\\Desktop\\Desktop\\CODElex\\Intensivie kursi\\study\\JOB_EXERCISES\\ReizTech\\CSHARP\\Hierarchical_Structure\\Hierarchical_Structure\\Tests\\Hierarchical_Structure.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kroma\\OneDrive\\Desktop\\Desktop\\CODElex\\Intensivie kursi\\study\\JOB_EXERCISES\\ReizTech\\CSHARP\\Hierarchical_Structure\\Tests\\Hierarchical_Structure.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kroma\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\kroma\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
