@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7dHAcftH7+Xju2uKUps6qt3+Ybn55tJp0QuxgywT7y5FcJyk5frR/tCYofm3hoRSYNln123eH7+zAyRzBPjAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kroma\\OneDrive\\Desktop\\Desktop\\CODElex\\Intensivie kursi\\study\\JOB_EXERCISES\\ReizTech\\CSHARP\\Hierarchical_Structure\\Hierarchical_Structure\\Hierarchical_Structure\\Hierarchical_Structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kroma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\kroma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\kroma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\kroma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
